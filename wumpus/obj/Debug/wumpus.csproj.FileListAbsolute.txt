@@ -1,0 +1,3 @@
+\\fs03d\stu5\home\ksingh1954\visual studio 2013\Projects\wumpus\wumpus\bin\Debug\wumpus.exe.config
+G:\wumpus\wumpus\bin\Debug\wumpus.exe.config
+C:\Users\Karanbir Singh\Downloads\wumpus\wumpus\wumpus\bin\Debug\wumpus.exe.config
